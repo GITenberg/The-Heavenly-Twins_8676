@@ -1,0 +1,25 @@
+_repo: The-Heavenly-Twins_8676
+creator:
+  author:
+    agent_name: Grand, Sarah
+    aliases:
+    - McFall, Frances Elizabeth
+    - Clarke, Frances Elizabeth Bellenden
+    birthdate: 1854
+    deathdate: 1943
+    gutenberg_agent_id: '2223'
+    url: http://www.gutenberg.org/2009/agents/2223
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women -- England -- Fiction'
+- !lcc 'PR'
+title: The Heavenly Twins
+url: http://www.gutenberg.org/ebooks/8676
